@@ -1,0 +1,13 @@
+{
+  "name": "ci-cd-practice",
+  "version": "1.0.0",
+  "description": "Exercício de prática de CI/CD com GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
